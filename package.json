@@ -1,0 +1,19 @@
+{
+  "name": "www.jnj.com.tests",
+  "version": "0.1.0",
+  "description": "Testing www.jnj.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Matthes",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-webdriver": "^1.0.3",
+    "webdriverio": "^4.8.0"
+  },
+  "devDependencies": {
+    "wdio-jasmine-framework": "^0.3.1"
+  }
+}
